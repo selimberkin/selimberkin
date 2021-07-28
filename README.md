@@ -1,3 +1,4 @@
+![image](https://tenor.com/view/hello-world-gif-18564330)
 # Hey there, I am Selim Berkin Tekerek
 
 I am 15 years old student and software lover. \
