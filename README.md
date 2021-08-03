@@ -2,7 +2,7 @@
 
 I am 15 years old student and software lover. \
 I love open source lot. \
-I working on a **web development** and **ML** now.
+I working on a **web development** and **Python** now.
 
 You can reach me on Twitter: [![Twitter](https://img.shields.io/twitter/follow/selim_berkin?style=social)](https://twitter.com/selim_berkin)
 
