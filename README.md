@@ -4,9 +4,9 @@ I am 16 years old student and software lover. \
 I love open source lot. \
 I working on a **C++** and **.NET** now.
 
-My social media accounts:
-Twitter: [![Twitter](https://img.shields.io/twitter/follow/sylw_sb?style=social)](https://twitter.com/sylw_sb)
-Instagram:  [![Instagram](https://img.shields.io/badge/instagram-Follow%20%40selimberkin-blueviolet?style=social&logo=instagram)](https://www.instagram.com/selimberkin/)
+My social media accounts: \
+Twitter: [![Twitter](https://img.shields.io/twitter/follow/sylw_sb?style=social)](https://twitter.com/sylw_sb) \
+Instagram:  [![Instagram](https://img.shields.io/badge/instagram-Follow%20%40selimberkin-blueviolet?style=social&logo=instagram)](https://www.instagram.com/selimberkin/)\
 Reddit: [![Reddit](https://img.shields.io/reddit/follow/AncientWrongdoer114?style=social)](https://www.reddit.com/user/AncientWrongdoer114)
 
 <h2 align="center">Languages and Tools</h2>
