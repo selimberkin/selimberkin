@@ -2,7 +2,7 @@
 
 I am 16 years old student and software lover. \
 I love open source lot. \
-I working on a **C++** and **.NET** now.
+I am working on **C++** and **.NET** now.
 
 My social media accounts: \
 Twitter: [![Twitter](https://img.shields.io/twitter/follow/sylw_sb?style=social)](https://twitter.com/sylw_sb) \
