@@ -5,7 +5,6 @@ I love open source lot. \
 I am working on **C++** and **.NET** now.
 
 My social media accounts: \
-Twitter: [![Twitter](https://img.shields.io/twitter/follow/sylw_sb?style=social)](https://twitter.com/sylw_sb) \
 Instagram:  [![Instagram](https://img.shields.io/badge/instagram-Follow%20%40selimberkin-blueviolet?style=social&logo=instagram)](https://www.instagram.com/selimberkin/)\
 Reddit:  [![Reddit](https://img.shields.io/badge/reddit-AncientWrongdoer114-blueviolet?style=social&logo=reddit)](https://www.reddit.com/user/AncientWrongdoer114) \
 Discord:  [![Discord](https://img.shields.io/badge/Discord-Add%20sylW%239997-blueviolet)](https://discord.com/users/461878535901151233)
